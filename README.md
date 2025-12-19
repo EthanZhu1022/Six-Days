@@ -13,15 +13,22 @@ This project is grounded in existential philosophy, drawing inspiration from thi
 - **Collapse of Order**: The game explores how rigid systems and structures inevitably break down, revealing the arbitrary nature of imposed order
 - **Affirmation of Existence**: Through gameplay, players discover meaning not in external validation, but in the raw, immediate experience of being
 
+## Quick Start
+
+New to the project? Start with [QUICK_START.md](QUICK_START.md) for a 5-minute overview.
+
 ## Project Status
 
 Currently in early development. See [GAME_DESIGN.md](GAME_DESIGN.md) and [PHILOSOPHY.md](PHILOSOPHY.md) for detailed documentation.
 
 ## Documentation
 
-- [GAME_DESIGN.md](GAME_DESIGN.md) - Core gameplay mechanics and design philosophy
+- [QUICK_START.md](QUICK_START.md) - 5-minute overview of the project
 - [PHILOSOPHY.md](PHILOSOPHY.md) - In-depth exploration of philosophical themes
+- [GAME_DESIGN.md](GAME_DESIGN.md) - Core gameplay mechanics and design philosophy
+- [GAMEPLAY_MECHANICS.md](GAMEPLAY_MECHANICS.md) - Detailed implementation of mechanics
 - [DEVELOPMENT.md](DEVELOPMENT.md) - Development setup and contribution guidelines
+- [CONTRIBUTING.md](CONTRIBUTING.md) - How to contribute to the project
 
 ## Engine
 
